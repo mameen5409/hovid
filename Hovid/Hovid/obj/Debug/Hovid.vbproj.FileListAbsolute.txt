@@ -1,0 +1,9 @@
+c:\isi\Hovid\Hovid\Hovid\bin\Hovid.dll.config
+c:\isi\Hovid\Hovid\Hovid\bin\Hovid.dll
+c:\isi\Hovid\Hovid\Hovid\bin\Hovid.pdb
+c:\isi\Hovid\Hovid\Hovid\bin\Hovid.xml
+c:\isi\Hovid\Hovid\Hovid\obj\Debug\Hovid.Resources.resources
+c:\isi\Hovid\Hovid\Hovid\obj\Debug\Hovid.vbproj.GenerateResource.Cache
+c:\isi\Hovid\Hovid\Hovid\obj\Debug\Hovid.dll
+c:\isi\Hovid\Hovid\Hovid\obj\Debug\Hovid.xml
+c:\isi\Hovid\Hovid\Hovid\obj\Debug\Hovid.pdb
